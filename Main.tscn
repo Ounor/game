@@ -75,5 +75,9 @@ size_flags_vertical = 3
 bbcode_enabled = true
 scroll_following = true
 
+[node name="Player" type="Area2D" parent="."]
+
+[node name="Map" type="Node2D" parent="."]
+
 [connection signal="pressed" from="Control/HBoxContainer/ServerContainer/ButtonPong" to="Server" method="_on_button_pong_pressed"]
 [connection signal="pressed" from="Control/HBoxContainer/ClientContainer/ButtonPing" to="Client" method="_on_button_ping_pressed"]
