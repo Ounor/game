@@ -1,5 +1,4 @@
 res://Main.tscn
+res://README.md
+res://Toolbar.tscn
 res://Control.gd
-res://client.gd
-res://server.gd
-res://src/GestureControlledCamera2D-4.x-v1_1_1/GCC2D.tscn
