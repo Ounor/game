@@ -1,5 +1,5 @@
 # WebSocket Minimal
-
+ыфвафывафывафывафыва
 This is a minimal sample of connecting two peers to each other using WebSockets.
 
 Language: GDScript
