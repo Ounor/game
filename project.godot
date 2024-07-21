@@ -16,10 +16,15 @@ config/tags=PackedStringArray("demo", "network", "official")
 run/main_scene="res://Main.tscn"
 config/features=PackedStringArray("4.2")
 
+[autoload]
+
+InputManager="*res://src/GDTIM-4.x-v2_1_2/InputManager.gd"
+
 [display]
 
 window/size/viewport_width=2532
 window/size/viewport_height=1117
+window/size/resizable=false
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
 
