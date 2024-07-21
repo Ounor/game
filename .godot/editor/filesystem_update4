@@ -1,2 +1,4 @@
 res://Main.tscn
-res://README.md
+res://Control.gd
+res://client.gd
+res://server.gd

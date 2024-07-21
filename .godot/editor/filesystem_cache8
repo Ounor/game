@@ -1,6 +1,10 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1721576262
-client.gd::GDScript::-1::1721576235::0::1::::<>Node<>::
-Main.tscn::PackedScene::6387230988059629541::1721576235::0::1::::<><>::res://server.gd<>res://client.gd
-README.md::TextFile::-1::1721576235::0::1::::<><>::
-server.gd::GDScript::-1::1721576235::0::1::::<>Node<>::
+::res://::1721579097
+client.gd::GDScript::-1::1721578965::0::1::::<>RefCounted<>::
+Control.gd::GDScript::-1::1721578823::0::1::::<>Control<>::
+index.gd::GDScript::-1::1721579087::0::1::::<>Node<>::
+Main.tscn::PackedScene::6387230988059629541::1721579051::0::1::::<><>::res://Control.gd<>uid://bxpx3fe1wtn8n::::res://map.jpg
+map.jpg::CompressedTexture2D::4033176516749160027::1721577470::1721577849::1::::<><>::
+README.md::TextFile::-1::1721575817::0::1::::<><>::
+server.gd::GDScript::-1::1721578976::0::1::::<>RefCounted<>::
+::res://player/::1721579097

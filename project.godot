@@ -18,8 +18,8 @@ config/features=PackedStringArray("4.2")
 
 [display]
 
-window/size/viewport_width=600
-window/size/viewport_height=300
+window/size/viewport_width=1170
+window/size/viewport_height=2532
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
 
